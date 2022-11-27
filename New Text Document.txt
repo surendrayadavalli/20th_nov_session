@@ -1,3 +1,10 @@
 git bash
 git ui'
 git command'
+
+
+
+git bqsh
+git config username
+git config email
+git cnfig --list
