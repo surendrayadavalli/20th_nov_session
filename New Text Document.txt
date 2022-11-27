@@ -15,4 +15,4 @@ git config email
 git cnfig --list
 
 khatam prnds
-
+https://github.com/surendrayadavalli/20th_nov_session.git
