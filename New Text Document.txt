@@ -8,3 +8,8 @@ git bqsh
 git config username
 git config email
 git cnfig --list
+
+git bqsh
+git config username
+git config email
+git cnfig --list
